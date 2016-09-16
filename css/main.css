@@ -9,14 +9,17 @@ input {
 	margin: 50px;
 	display: block;
 }
-#color1 {
+#blue {
 	background-color: blue;
 }
 
-#color2 {
+#green {
 	background-color: green;
 }
 
-#color3 {
+#black {
 	background-color: black;
+}
+.border-red {
+	border: 5px solid red;
 }
